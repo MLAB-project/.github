@@ -4,10 +4,11 @@ MLAB system is set of hardware and software modules designed for a fast developm
 The general workflow for that is designing a device prototype based on MLAB modules. Then then new apparatus is extensively tested in several units. After that, the application PCB is designed.
 
 To make that worflow applicable the prototype components needs to be open-source. Therefore the MLAB's key idea is to extensively use open-source design tools like [KiCAD](https://www.kicad.org/), [OpenSCAD](https://openscad.org/) or [FreeCAD](https://www.freecadweb.org/). 
-In some cases, you can found missing piece (module) to design the prototype you have in the mind. That case is situation, where [your contribution](https://wiki.mlab.cz/doku.php?id=en:rules) is especially helpful. 
+In some cases, you can found missing piece (module) to design the prototype you have in the mind. That case is situation, where [your contribution](https://wiki.mlab.cz/doku.php?id=en:rules) is especially helpful.
 
-![USB232R02A_wide_small](https://user-images.githubusercontent.com/5196729/236859775-c407fa86-bca2-4a50-8364-b205ace2a9e3.jpg)
+If you need to help with something, do not hesitate to contact us. For example, through [Github Discusse](https://github.com/orgs/MLAB-project/discussions)
 
+![](https://github.com/mlab-modules/USBI2C01/raw/USBI2C01A/doc/img/USBI2C01A_small-5.jpg)
 
 <!--
 
