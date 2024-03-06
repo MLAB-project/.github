@@ -8,7 +8,7 @@ In some cases, you can find missing pieces (modules) to design the prototype you
 
 If you need help with something, do not hesitate to contact us. For example, through [Github Discussions](https://github.com/orgs/MLAB-project/discussions)
 
-![](https://github.com/mlab-modules/USBI2C01/raw/USBI2C01A/doc/img/USBI2C01A_small-5.jpg)
+![MLAB kit system module on ALBASE](https://github.com/mlab-modules/USBI2C01/raw/USBI2C01A/doc/img/USBI2C01A_small-5.jpg)
 
 <!--
 
